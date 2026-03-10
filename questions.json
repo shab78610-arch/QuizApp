@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["A. Berlin", "B. Madrid", "C. Paris", "D. Rome"],
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which keyword is used to define a function in Python?",
+    "options": ["A. function", "B. define", "C. def", "D. func"],
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which data structure uses FIFO?",
+    "options": ["A. Stack", "B. Queue", "C. Tree", "D. Graph"],
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What does OOP stand for?",
+    "options": ["A. Object Oriented Programming", "B. Only One Program", "C. Order of Processing", "D. Open Output Program"],
+    "answer": "A",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the time complexity of binary search?",
+    "options": ["A. O(n)", "B. O(log n)", "C. O(n^2)", "D. O(1)"],
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which sorting algorithm has worst-case O(n^2)?",
+    "options": ["A. Merge Sort", "B. Quick Sort", "C. Bubble Sort", "D. Heap Sort"],
+    "answer": "C",
+    "difficulty": "hard"
+  }
+]
